@@ -8,6 +8,6 @@ class Solution {
             }
             h.put(nums[i], i);
         }
-        return {1,2};
+        return null;
     }
 }
